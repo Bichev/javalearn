@@ -1,4 +1,4 @@
-package oracletutorial;
+package oracle.tutorial;
 
 /**
  * Created by IntelliJ IDEA.
