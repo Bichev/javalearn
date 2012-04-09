@@ -1,4 +1,4 @@
-
+package oracle.tutorial;
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
  *
@@ -38,6 +38,9 @@
  */
 class HelloWorldApp2 {
     public static void main(String[] args) {
+        String i = "1";
+
+        System.out.println(":" + (i instanceof String));
         System.out.println("Hello World!"); // Display the string.
     }
 }

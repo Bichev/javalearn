@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f3fe95-9aa0-4084-9a6e-8e4736d85648" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracletutorial\ArithmeticDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/ArithmeticDemo.java" />
-      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracletutorial\ArrayDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/ArrayDemo.java" />
-      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracletutorial\PrePostDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/PrePostDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javalearn.iml" afterPath="$PROJECT_DIR$/javalearn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakWithLabelDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ContinueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ForDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/StringSwitchDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemoFallThrough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/WhileDemo.java" />
+      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracle\tutorial\ArithmeticDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ArithmeticDemo.java" />
+      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracle\tutorial\ArrayDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ArrayDemo.java" />
+      <change type="MOVED" beforePath="C:\repo\javalearn\src\main\java\oracle\tutorial\PrePostDemo.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/PrePostDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java" afterPath="$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java" />
     </list>
     <ignored path="javalearn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,6 +33,21 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/WhileDemo.java" line="15" class="oracle.tutorial.demo.WhileDemo" package="oracle.tutorial.demo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -63,28 +88,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrePostDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/PrePostDemo.java">
+      <file leaf-file-name="HelloWorldApp2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="45" column="44" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/ArrayDemo.java">
+      <file leaf-file-name="SwitchDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="35" column="26" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArithmeticDemo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/ArithmeticDemo.java">
+      <file leaf-file-name="SwitchDemoFallThrough.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemoFallThrough.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="35" selection-start="208" selection-end="208" vertical-scroll-proportion="0.25757575">
+            <state line="36" column="65" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#356#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwitchDemo2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="9" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhileDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/WhileDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="33" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ForDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="52" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreakDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="17" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreakWithLabelDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakWithLabelDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="29" selection-start="710" selection-end="710" vertical-scroll-proportion="0.713253">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContinueDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ContinueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="1" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringSwitchDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/StringSwitchDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="14" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,6 +191,24 @@
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
     <option name="UPDATE_CHANGES_POLICY" value="STASH" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ArithmeticDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/InstanceOfDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemoFallThrough.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/StringSwitchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/WhileDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ForDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ContinueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakWithLabelDemo.java" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -191,6 +299,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javalearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javalearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oracle.tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -198,12 +324,106 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BreakWithLabelDemo">
+    <configuration default="false" name="WhileDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oracle.tutorial.demo.WhileDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javalearn" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ForDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oracle.tutorial.demo.ForDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javalearn" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BreakDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oracle.tutorial.demo.BreakDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javalearn" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BreakWithLabelDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oracle.tutorial.demo.BreakWithLabelDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javalearn" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinueDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oracle.tutorial.demo.ContinueDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javalearn" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -321,7 +541,13 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="0" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.WhileDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ForDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BreakDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BreakWithLabelDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ContinueDemo" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -337,21 +563,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="780" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.74718195" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25281805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -410,63 +637,11 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="6" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.2003367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/concepts/PhoneActivities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/concepts/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.028619528">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/concepts/IPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="711" selection-end="711" vertical-scroll-proportion="0.88720536">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/concepts/Fax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.2003367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/concepts/SmartPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/samples/tasks/DummyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/samples/tasks/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="70" selection-start="356" selection-end="356" vertical-scroll-proportion="0.4006734">
@@ -483,23 +658,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/PrePostDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ArithmeticDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="9" column="29" selection-start="213" selection-end="213" vertical-scroll-proportion="0.25757575">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/ArrayDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.25757575">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/ArithmeticDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/PrePostDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="208" selection-end="208" vertical-scroll-proportion="0.25757575">
+        <state line="9" column="26" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="24" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/HelloWorldApp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="44" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemoFallThrough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="65" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#356#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="9" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/StringSwitchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="14" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/WhileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="17" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/SwitchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="26" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ForDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="52" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/ContinueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/tutorial/demo/BreakWithLabelDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="29" selection-start="710" selection-end="710" vertical-scroll-proportion="0.713253">
           <folding />
         </state>
       </provider>
