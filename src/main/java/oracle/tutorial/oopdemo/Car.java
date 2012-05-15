@@ -12,14 +12,33 @@ public class Car extends VehicleImpl{
     //as Enum
     private String drive;
     private static final int SPEED_LIMIT = 60;
-    
-    public Car (int startSpeed, int  startGear, String defColour, String driveType) {
+    private int id;
+    private static int numberOfCar = 0;
+
+    //Example of Initializing for all Constructors
+    {
+        this.id = ++numberOfCar;
+    }
+
+    public Car (int startSpeed, int  startGear, String defColour, String drive) {
         super(startSpeed,startGear,defColour);
-        setDrive(driveType);
+        this.drive = drive;
+        //setDrive(driveType);
+        //this.id = ++numberOfCar;
     }
     
     public Car (){
         super();
+        //this.id = ++numberOfCar;
+    }
+
+    public Car (String... someString){  //Arbitaty Number - varargs
+        super();
+        
+    }
+    
+    public int passagenrsCount (String... passanger) {
+        return passanger.length;
     }
 
     public String checkSpeedLimit (int currentSpeed) {

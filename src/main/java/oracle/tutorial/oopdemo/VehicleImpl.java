@@ -11,6 +11,14 @@ public class VehicleImpl implements Vehicle{
     private String colour;
     private int speed;
     private int gear;
+
+    public VehicleImpl () {
+        this(1,3,"blue");
+    }
+
+    public VehicleImpl (int speed, int gear) {
+        this(speed, gear, "red");
+    }
     
     public VehicleImpl (int startSpeed, int  startGear, String defColour) {
         setGear(startGear);
@@ -18,11 +26,11 @@ public class VehicleImpl implements Vehicle{
         setSpeed(startSpeed);
     }
 
-    public VehicleImpl () {
-        setGear(1);
-        setSpeed(55);
-        setColour("red");
-    }
+//    public VehicleImpl () {
+//        setGear(1);
+//        setSpeed(55);
+//        setColour("red");
+//    }
 
     public void speedUp (int increment) {
         setSpeed(getSpeed() + increment);
